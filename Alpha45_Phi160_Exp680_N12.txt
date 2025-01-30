@@ -1,0 +1,141 @@
+data = [ ...
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/680/pdata/1/integrals.txt
+     1      0.188      0.167         0.999901 
+     2     -0.260     -0.281          1.00353 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/681/pdata/1/integrals.txt
+     1      0.188      0.167         0.989268 
+     2     -0.260     -0.281         0.992399 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/682/pdata/1/integrals.txt
+     1      0.188      0.167         0.982207 
+     2     -0.260     -0.281         0.983654 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/683/pdata/1/integrals.txt
+     1      0.188      0.167         0.968573 
+     2     -0.260     -0.281         0.972236 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/684/pdata/1/integrals.txt
+     1      0.188      0.167         0.957853 
+     2     -0.260     -0.281         0.961525 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/685/pdata/1/integrals.txt
+     1      0.188      0.167         0.935918 
+     2     -0.260     -0.281         0.939517 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/686/pdata/1/integrals.txt
+     1      0.188      0.167         0.914761 
+     2     -0.260     -0.281         0.918084 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/687/pdata/1/integrals.txt
+     1      0.188      0.167         0.886864 
+     2     -0.260     -0.281         0.889051 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/688/pdata/1/integrals.txt
+     1      0.188      0.167         0.860538 
+     2     -0.260     -0.281         0.863143 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/689/pdata/1/integrals.txt
+     1      0.188      0.167         0.834389 
+     2     -0.260     -0.281         0.835829 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/690/pdata/1/integrals.txt
+     1      0.188      0.167         0.800865 
+     2     -0.260     -0.281         0.801998 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/691/pdata/1/integrals.txt
+     1      0.188      0.167         0.766687 
+     2     -0.260     -0.281         0.767495 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/692/pdata/1/integrals.txt
+     1      0.188      0.167         0.732829 
+     2     -0.260     -0.281         0.732302 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/693/pdata/1/integrals.txt
+     1      0.188      0.167         0.697493 
+     2     -0.260     -0.281         0.696678 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/694/pdata/1/integrals.txt
+     1      0.188      0.167         0.661047 
+     2     -0.260     -0.281         0.661061 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/695/pdata/1/integrals.txt
+     1      0.188      0.167         0.620941 
+     2     -0.260     -0.281         0.617603 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/696/pdata/1/integrals.txt
+     1      0.188      0.167         0.578752 
+     2     -0.260     -0.281         0.575796 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/697/pdata/1/integrals.txt
+     1      0.188      0.167          0.54022 
+     2     -0.260     -0.281         0.537228 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/698/pdata/1/integrals.txt
+     1      0.188      0.167         0.503735 
+     2     -0.260     -0.281         0.497811 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/699/pdata/1/integrals.txt
+     1      0.188      0.167          0.46566 
+     2     -0.260     -0.281         0.458697 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/700/pdata/1/integrals.txt
+     1      0.188      0.167         0.426836 
+     2     -0.260     -0.281         0.419162 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/701/pdata/1/integrals.txt
+     1      0.188      0.167         0.389511 
+     2     -0.260     -0.281         0.380272 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/702/pdata/1/integrals.txt
+     1      0.188      0.167         0.354464 
+     2     -0.260     -0.281         0.344821 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/703/pdata/1/integrals.txt
+     1      0.188      0.167         0.319119 
+     2     -0.260     -0.281         0.307732 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/704/pdata/1/integrals.txt
+     1      0.188      0.167         0.290025 
+     2     -0.260     -0.281         0.277216 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/705/pdata/1/integrals.txt
+     1      0.188      0.167         0.258336 
+     2     -0.260     -0.281         0.244518 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/706/pdata/1/integrals.txt
+     1      0.188      0.167         0.230242 
+     2     -0.260     -0.281         0.215185 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/707/pdata/1/integrals.txt
+     1      0.188      0.167         0.204809 
+     2     -0.260     -0.281         0.187989 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/708/pdata/1/integrals.txt
+     1      0.188      0.167         0.181564 
+     2     -0.260     -0.281         0.164348 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/709/pdata/1/integrals.txt
+     1      0.188      0.167         0.162079 
+     2     -0.260     -0.281         0.143527 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/710/pdata/1/integrals.txt
+     1      0.188      0.167          0.14368 
+     2     -0.260     -0.281         0.123491 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/711/pdata/1/integrals.txt
+     1      0.188      0.167         0.128469 
+     2     -0.260     -0.281         0.109085 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/712/pdata/1/integrals.txt
+     1      0.188      0.167         0.118461 
+     2     -0.260     -0.281        0.0982748 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/713/pdata/1/integrals.txt
+     1      0.188      0.167          0.11144 
+     2     -0.260     -0.281         0.089968 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/714/pdata/1/integrals.txt
+     1      0.188      0.167         0.108279 
+     2     -0.260     -0.281        0.0861146 
+];

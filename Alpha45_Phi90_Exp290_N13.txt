@@ -1,0 +1,73 @@
+N13data = [...
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/290/pdata/1/integrals.txt
+     1      0.182      0.168                1 
+     2     -0.266     -0.279          1.05279 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/291/pdata/1/integrals.txt
+     1      0.182      0.168          1.01593 
+     2     -0.266     -0.279          1.06299 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/292/pdata/1/integrals.txt
+     1      0.182      0.168           1.0542 
+     2     -0.266     -0.279          1.08961 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/293/pdata/1/integrals.txt
+     1      0.182      0.168          1.08943 
+     2     -0.266     -0.279          1.14248 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/294/pdata/1/integrals.txt
+     1      0.182      0.168          1.13197 
+     2     -0.266     -0.279          1.20622 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/295/pdata/1/integrals.txt
+     1      0.182      0.168          1.20718 
+     2     -0.266     -0.279          1.25792 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/296/pdata/1/integrals.txt
+     1      0.182      0.168          1.28799 
+     2     -0.266     -0.279          1.32227 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/297/pdata/1/integrals.txt
+     1      0.182      0.168           1.3659 
+     2     -0.266     -0.279          1.40018 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/298/pdata/1/integrals.txt
+     1      0.182      0.168          1.45171 
+     2     -0.266     -0.279          1.47604 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/299/pdata/1/integrals.txt
+     1      0.182      0.168          1.53682 
+     2     -0.266     -0.279          1.55912 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/300/pdata/1/integrals.txt
+     1      0.182      0.168          1.61244 
+     2     -0.266     -0.279          1.64175 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/301/pdata/1/integrals.txt
+     1      0.182      0.168          1.69141 
+     2     -0.266     -0.279          1.71013 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/302/pdata/1/integrals.txt
+     1      0.182      0.168          1.77441 
+     2     -0.266     -0.279          1.76774 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/303/pdata/1/integrals.txt
+     1      0.182      0.168          1.83018 
+     2     -0.266     -0.279          1.83448 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/304/pdata/1/integrals.txt
+     1      0.182      0.168           1.8868 
+     2     -0.266     -0.279          1.85915 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/305/pdata/1/integrals.txt
+     1      0.182      0.168           1.9222 
+     2     -0.266     -0.279          1.91363 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/306/pdata/1/integrals.txt
+     1      0.182      0.168          1.95326 
+     2     -0.266     -0.279          1.94216 
+
+%/opt/topspin3.2pl7/data/tsmahesh/Arijit_LGI_QXI_DBFM.ac/307/pdata/1/integrals.txt
+     1      0.182      0.168          1.96396 
+     2     -0.266     -0.279          1.95094 
+];
